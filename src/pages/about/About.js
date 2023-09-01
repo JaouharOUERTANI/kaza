@@ -1,4 +1,4 @@
-import './About.scss';
+import './about.scss';
 import Header from "../../components/header/Header";
 import Banner from '../../components/banner/Banner';
 import Collapse from '../../components/collapse/Collapse';
