@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# Projet Kaza - Location Immobilière
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ce projet consiste à développer une application web de location immobilière avec React.
 
-## Available Scripts
+![Aperçu du projet](public/Screen.png)
 
-In the project directory, you can run:
+## Comment Exécuter le Projet Localement
 
-### `npm start`
+1. Clonez ce dépôt : `git clone [lien du dépôt]`
+2. Accédez au répertoire du projet : `cd kaza`
+3. Installez les dépendances : `npm install` ou `yarn install`
+4. Démarrez l'application : `npm start` ou `yarn start`
+5. L'application devrait être accessible localement à l'adresse [http://localhost:3000](http://localhost:3000).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Lien vers la Version Déployée
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Vous pouvez consulter la version déployée du projet https://kaza-rho.vercel.app/.
 
-### `npm test`
+## Compétences évaluées
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Développer une interface web avec Sass
+Mettre en œuvre des animations CSS
+Initialiser une application avec Create React App
+Configurer la navigation entre les pages de l'application avec React Router
+Développer des éléments de l'interface d'un site web grâce à des composants React
