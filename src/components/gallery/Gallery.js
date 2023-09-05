@@ -1,4 +1,4 @@
-import './gallery.scss'
+import './Gallery.scss'
 import datas from '../../data/data'
 import Card from '../card/Card'
 

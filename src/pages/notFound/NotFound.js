@@ -1,4 +1,4 @@
-import './notFound.scss'
+import './NotFound.scss'
 import Header from "../../components/header/Header";
 import { Link } from 'react-router-dom';
 

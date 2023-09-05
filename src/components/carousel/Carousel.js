@@ -1,4 +1,4 @@
-import './carousel.scss'
+import './Carousel.scss'
 import ArrowRight from '../../assets/chevron_carousel_right.png'
 import ArrowLeft from '../../assets/chevron_carousel_left.png'
 import { useState } from 'react'
